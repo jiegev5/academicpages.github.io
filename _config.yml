@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luo Wenjie"
-  avatar           : "profile.png"
+  avatar           : "images/luowenjie_1mb.jpg"
   bio              : "I am currently a PhD candidate at School of Computer Science and Engineering, Nanyang Technological University"
   location         : "Singapore"
   employer         :
@@ -137,7 +137,7 @@ exclude:
   - README
   - Rakefile
   - assets/js/_main.js
-  - assets/js/plugins
+  - assets/js/plugins_dir
   - assets/js/vendor
   - config
   - gulpfile.js
@@ -258,8 +258,8 @@ permalink: /:categories/:title/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-plugins:
+# plugins_dir
+plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
