@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luo Wenjie / NTU"
+title                    : "Luo Wenjie"
 title_separator          : "-"
 name                     : &name "Luo Wenjie"
 description              : &description "personal description"
