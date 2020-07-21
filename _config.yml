@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luo Wenjie"
-  avatar           : "images/500x300.png"
+  avatar           : images/500x300.png
   bio              : "PhD candidate at School of Computer Science and Engineering, Nanyang Technological University"
   location         : "Singapore"
   employer         :
