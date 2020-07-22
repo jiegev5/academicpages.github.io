@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 2015
+* Ph.D School of Computer Science and Engineering, Nanyang Technological University, Singapore 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fab10 Yield Enhancement Engineer, Micron Technology       2018 - 2019
+  * Perform data analyssis using data mining tools to identify process root cause and fail mechanism of yield issues
+  * Apply knowledge of semiconductor device physics, electronics and semiconductor manufacturing process to explain and resolve yield issues
+  * Coordinate in all Failure Analysis activities and characterization to narrow down process root cause of yield deviation and limiters. 
+  * Collaborate with Process Integration and Process & Equipment engineer to provide timely yield feedback to enable fast yield ramp to mature
+  * Serve as a key role in identifying and implementing new methods for yield analysis, and working with Yield Enhancement team to continuous improve YE process efficiencies
+  * Engage other sister Fabs to shares Best Known Methods (BKM) and yield learning
+  * Support transfer of next generation technology from R&D to production Fab as and when necessary 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Product Engineer, Micron Technology       2015 - 2018
+  * developing NAND validation sequence based on internal or customer request
+  * Designing and managing NAND product functional and design verification software
+  * Designing test algorithms for NAND products
+  * Tracking program test time and optimizing test flow with automation
+  * Communicating issue findings to various NAND stakeholders
+  * Automating program development and work process by scripting
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hardware
+  * Oscilloscope
+  * [Magnum tester](https://www.teradyne.com/products/magnum-v/)
+  * [ADVANTEST](https://www.advantest.com/products/ic-test-systems/v93000)
+* Software
+  * C#
+  * Perl
+  * Python
 
 Publications
 ======
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Residential Room mentor](https://www.ntu.edu.sg/re/aboutus/RM/Pages/default.aspx), NTU     2020 - 2021
