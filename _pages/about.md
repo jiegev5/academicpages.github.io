@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+My timeline
+------
+<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=307272" frameborder="0" allowfullscreen></iframe>
+<div><a  style="font-size: 12px; text-decoration: none;" title="Project timeline" href="https://time.graphics">Project timeline</a></div>
+
 About me
 ------
 I am a full-time PhD student at School of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), I was enrolled in August, 2019. My supervisor is Asst Prof [Tan Rui](https://www.ntu.edu.sg/home/tanrui/). My research interest is exploiting phsical knowledge into AIoT. You can find more about our research at [NTU IoT Sensing Group website](https://ntuiot.xyz/).
@@ -17,6 +23,4 @@ Interests
 ------
 I watch NBA games, I am a fan of [Lebron James](https://twitter.com/KingJames) and [Lakers](https://twitter.com/Lakers). I like playing basketball, with friends. I exercise daily, either go to gym (I don't do heavy weight, neither drink protein) or exercise at home (push-ups, sit-ups, hand stand and burpees). I don't like running, but I run regularly. I like swimming, while I prefer to go with friends.
 
-<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=307272" frameborder="0" allowfullscreen></iframe>
-<div><a  style="font-size: 12px; text-decoration: none;" title="Project timeline" href="https://time.graphics">Project timeline</a></div>
 
